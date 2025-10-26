@@ -1,0 +1,145 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: https://mileston-5-unique-url-resume-by-anza.vercel.app/
+Subject: Resume Builder
+Date: Sun, 26 Oct 2025 16:57:31 +0500
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--RQKOoeAa8rZSFL2fy2HHuXudmzKw8gw4IMAiTcvpC3----"
+
+
+------MultipartBoundary--RQKOoeAa8rZSFL2fy2HHuXudmzKw8gw4IMAiTcvpC3----
+Content-Type: text/html
+Content-ID: <frame-F529E479DA13BD7E8CE3E3F634B96E6E@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://mileston-5-unique-url-resume-by-anza.vercel.app/
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8">
+   =20
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1.0">
+    <title>Resume Builder </title>
+    <link rel=3D"stylesheet" href=3D"https://mileston-5-unique-url-resume-b=
+y-anza.vercel.app/style.css">
+</head>
+<body>
+    <h1>Unique path  Resume By Anza Sarwar</h1>
+    <form id=3D"resume">
+        <fieldset>
+            <legend>Personal Information</legend>
+
+           <label for=3D"username">CV URL:</label>
+           <input type=3D"text" id=3D"username" name=3D"username" required=
+=3D""><br> <br>
+
+
+
+
+
+
+            <label for=3D"name">Name:</label>
+            <input type=3D"text" id=3D"name" name=3D"name" required=3D""><b=
+r><br>
+
+            <label for=3D"email">Email:</label>
+            <input type=3D"email" id=3D"email" name=3D"email" required=3D""=
+><br> <br>
+
+            <label for=3D"phone">Phone:</label>
+            <input type=3D"tel" id=3D"phone" name=3D"phone" required=3D""><=
+br><br>
+
+           =20
+
+
+
+=20
+
+        </fieldset>
+
+
+<fieldset>
+    <legend>Education</legend>
+    <label for=3D"education"> Education</label>
+    <textarea id=3D"education" name=3D"education" rows=3D"4" required=3D"">=
+</textarea><br>
+
+</fieldset>     =20
+
+<fieldset>
+    <legend>Experience</legend>
+    <label for=3D"Experience"> Experience</label>
+    <textarea id=3D"experience" name=3D"experience" rows=3D"4" required=3D"=
+"></textarea><br>
+   =20
+</fieldset> =20
+
+<fieldset> =20
+    <legend>Skills</legend>
+    <label for=3D"skills"> Skills</label>
+    <textarea id=3D"skills" name=3D"skills" rows=3D"4" required=3D""></text=
+area><br>
+   =20
+</fieldset> =20
+<button type=3D"submit">Generate Resume Below</button>=20
+
+</form>
+
+<div id=3D"resumeOutput">
+    <!--Resum will be Generate Below-->
+</div>
+
+
+
+
+
+
+   =20
+
+
+</body></html>
+------MultipartBoundary--RQKOoeAa8rZSFL2fy2HHuXudmzKw8gw4IMAiTcvpC3----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: https://mileston-5-unique-url-resume-by-anza.vercel.app/style.css
+
+@charset "utf-8";
+
+body { font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", ser=
+if; margin: 20px; padding: 0px; background-color: pink; color: black; }
+
+h1 { text-align: center; color: black; background-color: rgba(216, 112, 147=
+, 0.68); }
+
+form { max-width: 600px; margin: auto; background-color: rgba(216, 112, 147=
+, 0.443); border-radius: 8px; box-shadow: brown 0px 4px 8px; }
+
+fieldset { border: 2px solid brown; background-color: palevioletred; }
+
+legend { font-weight: bold; text-align: left; background-color: pink; color=
+: black; }
+
+label { display: inline-block; margin-top: 10px; color: black; font-weight:=
+ bold; }
+
+input, textarea { padding: 6px; margin-top: 2px; border: 1px solid pink; bo=
+rder-radius: 2px; box-sizing: border-box; }
+
+button { display: block; width: 100%; padding: 10px; background-color: brow=
+n; color: antiquewhite; border: none; border-radius: 4px; cursor: pointer; =
+margin-top: 10px; font-size: 18px; font-family: "Times New Roman", Times, s=
+erif; }
+
+button:hover { background-color: palevioletred; color: black; }
+
+#resumeOutput { max-width: 600px; margin: auto; padding: 20px; border: 2px =
+solid brown; border-radius: 8px; background-color: pink; box-shadow: brown =
+0px 4px 8px; }
+
+#resumeOutput h2 { color: black; font-weight: bold; text-align: center; }
+
+.profilePicture { display: block; margin: 0px auto; border: 2px solid pink;=
+ box-shadow: brown 0px 4px 8px; border-radius: 500%; width: 150px; height: =
+150px; object-fit: cover; }
+------MultipartBoundary--RQKOoeAa8rZSFL2fy2HHuXudmzKw8gw4IMAiTcvpC3------
